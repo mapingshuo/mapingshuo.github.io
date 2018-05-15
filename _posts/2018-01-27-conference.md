@@ -10,6 +10,8 @@
   |National Conference of Computer Applications 2018<br>(NCCA)<br>https://easychair.org/cfp/ncca2018| 网络安全与人工智能|2018/06/30|2018/9|
   |计算科学与应用国际会议<br>(CSAE2018)<br>http://www.csaeconf.org/DefaultCn.aspx| |2018/8/20|2018/10/22|
   |计算机科学与人工智能国际会议<br>(CSAI)<br>http://www.csai.org/| |2018/7/20|2018/12/8|
+  |IEEE云计算与大数据分析国际会议<br>(ICCCBDA)<br>http://www.icccbd.com/index.html||2018/2|2018/4|
+  |2018 IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference<br>(IAEAC2018)<br>http://www.iaeac.org/Important_Dates.asp||2018/5/20|2018/10|
   
   
   
