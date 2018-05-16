@@ -2,7 +2,6 @@
 
   |名称|简介|截止日期|开会时间|
   |:-----:|:-----:|:-----:|:-----:|
-  |CCF中国计算机大会（CNCC）http://cncc.ccf.org.cn/|||
   |International conference on Natural Language <br>Processing and Chinese Computing <br>(NLPCC)<br>http://tcci.ccf.org.cn/conference/2018/|NLP相关|2018/4/21|2018/8|
   |Artificial Intelligence, Networking and Information Technology<br>(ANIT)<br>http://www.anitconf.info/||2018/5/25|2018/11/10|
   |全国计算语言学会议<br>(CCL2017)<br>http://www.cips-cl.org/static/CCL2018/callfor.html|NLP相关| 2018/6/1|2018/10|
@@ -18,5 +17,8 @@
   |International Conference on Asian Language Processing 2018<br>http://inacl.id/conferences/ialp2018/| maybe hard | 2018/7/20|2018/11|
   |The 14th IEEE International Conference on Signal Processing<br>(ICSP2018)<br>http://www.icsp-ieee.org/page.asp?id=153#|信号处理|2018/5/20|2018/8|
 |International Conference on Digital Signal Processing<br>(DSP)<br>http://dsp2018.org/home.asp|信号处理|2018/4|2018/11|
-|ACMMULTIMEDIA 2018<br>(ACMMM)<br>http://www.acmmm.org/2018|多媒体|2018/4|2018/10|
+|ACM MULTIMEDIA 2018<br>(ACMMM)<br>http://www.acmmm.org/2018|多媒体|2018/4|2018/10|
 |4th IEEE International Conference on Computer and Communications<br>(ICCC)<br>http://www.iccc.org/|计算机类|2018/8|2018/12|
+|IEEE知识工程与应用国际会议<br>(ICKEA2018)<br>http://www.ickea.org/|知识工程|2018/5/5|2018/6|
+|International Symposium on Communications and Information Technologies<br>(ISCIT)<br>http://iscit2018.org/|计算机类|2018/5|2018/9|
+||
