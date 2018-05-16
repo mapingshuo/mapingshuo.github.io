@@ -23,4 +23,7 @@
 |International Symposium on Communications and Information Technologies<br>(ISCIT)<br>http://iscit2018.org/|计算机类|2018/5|2018/9|
 |International Conference on Advanced Robotics and Intelligent Systems (ARIS)<br>(ARIS 2018)<br>http://aris2017.nchu.edu.tw/index.html|机器和智能|2018/5|2018/8|
 |10th International Conference on Intelligent Human-Machine Systems and Cybernetics<br>(IHMSC 2018)<br>https://easychair.org/cfp/IHMSC2018|人机智能系统|2018/5/24|2018/8|
+|International Conference on Computer Science & Education<br>(ICCSE)<br>http://www.ieee-iccse.org/|计算机和智能|2018/4|2018/8|\
+|International Conference on Information Science and Control Engineering<br>(ICISCE)<br>http://www.icisce.org/index.asp|智能与控制|2018/4/25|2018/7|
+|International Conference on Deep Learning Technologies<br>(ICDLT 2018)<br>http://www.icdlt.org/|深度学习|2018/5|2018/6|
 
