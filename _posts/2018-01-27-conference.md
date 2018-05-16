@@ -10,7 +10,7 @@
   |计算机科学与人工智能国际会议<br>(CSAI)<br>http://www.csai.org/|不保证EI，但进入ACM Library|2018/7/20|2018/12/8|
   |IEEE云计算与大数据分析国际会议<br>(ICCCBDA)<br>http://www.icccbd.com/index.html||2018/2|2018/4|
   |International Conference on Progress in Informatics and Computing<br>(PIC)<br>http://pic2017.njust.edu.cn/|AI|2017/10/15|2017/12|
-  |2018第十一届计算智能与设计国际会议<br>(ISCID)<br>http://meeting.sciencenet.cn/index.php?s=/Category/reading_display&rid=12056|没有主页(收录EI)|2018年6月或者7月|2018/12|
+  |2018第十一届计算智能与设计国际会议<br>(ISCID)<br>http://iukm.zju.edu.cn/iscid/index.html|收录EI（但很慢)|2018年6月或者7月|2018/12|
   |IEEE ISM 2018<br>http://ism.asia.edu.tw/2018/| hard |2018/7/20|2018/12|
   |International Conference on Asian Language Processing 2018<br>http://inacl.id/conferences/ialp2018/| maybe hard | 2018/7/20|2018/11|
 |4th IEEE International Conference on Computer and Communications<br>(ICCC)<br>http://www.iccc.org/|计算机类|2018/8|2018/12|
