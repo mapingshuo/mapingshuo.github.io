@@ -17,3 +17,6 @@
   |IEEE ISM 2018<br>http://ism.asia.edu.tw/2018/| hard |2018/7/20|2018/12|
   |International Conference on Asian Language Processing 2018<br>http://inacl.id/conferences/ialp2018/| maybe hard | 2018/7/20|2018/11|
   |The 14th IEEE International Conference on Signal Processing<br>(ICSP2018)<br>http://www.icsp-ieee.org/page.asp?id=153#|信号处理|2018/5/20|2018/8|
+|International Conference on Digital Signal Processing<br>(DSP)<br>http://dsp2018.org/home.asp|信号处理|2018/4|2018/11|
+|ACMMULTIMEDIA 2018<br>(ACMMM)<br>http://www.acmmm.org/2018|多媒体|2018/4|2018/10|
+|4th IEEE International Conference on Computer and Communications<br>(ICCC)<br>http://www.iccc.org/|计算机类|2018/8|2018/12|
