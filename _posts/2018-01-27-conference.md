@@ -21,4 +21,6 @@
 |4th IEEE International Conference on Computer and Communications<br>(ICCC)<br>http://www.iccc.org/|计算机类|2018/8|2018/12|
 |IEEE知识工程与应用国际会议<br>(ICKEA2018)<br>http://www.ickea.org/|知识工程|2018/5/5|2018/6|
 |International Symposium on Communications and Information Technologies<br>(ISCIT)<br>http://iscit2018.org/|计算机类|2018/5|2018/9|
-||
+|International Conference on Advanced Robotics and Intelligent Systems (ARIS)<br>(ARIS 2018)<br>http://aris2017.nchu.edu.tw/index.html|机器和智能|2018/5|2018/8|
+|10th International Conference on Intelligent Human-Machine Systems and Cybernetics<br>(IHMSC 2018)<br>https://easychair.org/cfp/IHMSC2018|人机智能系统|2018/5/24|2018/8|
+
