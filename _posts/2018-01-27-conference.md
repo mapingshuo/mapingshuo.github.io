@@ -20,4 +20,6 @@
 |International Conference on Computer Science & Education<br>(ICCSE)<br>http://www.ieee-iccse.org/|计算机和智能|2018/4|2018/8|\
 |International Conference on Information Science and Control Engineering<br>(ICISCE)<br>http://www.icisce.org/index.asp|智能与控制|2018/4/25|2018/7|
 |International Conference on Deep Learning Technologies<br>(ICDLT 2018)<br>http://www.icdlt.org/|深度学习|2018/5|2018/6|
+| International Conference on Artificial Intelligence Applications and Technologies<br>(AIAAT 2018)<br>http://www.aiaat.org/index.html|人工智能|2018/6/20|2018/8|
+|2018年第三届人工智能和机器人国际会议<br>(ICAIR 2018)<br>http://www.icair.net/Chinese.html|人工智能|2018/5/30|2018/7|
 
