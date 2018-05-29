@@ -4,6 +4,7 @@
   |:-----:|:-----:|:-----:|:-----:|
   |International conference on Natural Language <br>Processing and Chinese Computing <br>(NLPCC)<br>http://tcci.ccf.org.cn/conference/2018/|NLP相关|2018/4/21|2018/8|
   |Artificial Intelligence, Networking and Information Technology<br>(ANIT)<br>http://www.anitconf.info/|ISTP检索<br>EI只提交|2018/6/25|2018/11/10|
+  |2018 International Seminar on Computational Intelligence, Engineering and Technology <br> (SCIET 2018)<br>http://www.sciet.info/index.html|ISTP检索<br>EI检索|2018/6/25|2018/11/10| 
   |全国计算语言学会议<br>(CCL2017)<br>http://www.cips-cl.org/static/CCL2018/callfor.html|NLP相关| 2018/6/11|2018/10|
   |National Conference of Computer Applications 2018<br>(NCCA)<br>https://easychair.org/cfp/ncca2018| 网络安全与人工智能|2018/06/30|2018/9|
   |计算科学与应用国际会议<br>(CSAE2018)<br>http://www.csaeconf.org/DefaultCn.aspx| |2018/8/20|2018/10/22|
