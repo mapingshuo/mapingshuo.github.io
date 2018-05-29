@@ -7,7 +7,7 @@
   |2018 International Seminar on Computational Intelligence, Engineering and Technology <br> (SCIET 2018)<br>http://www.sciet.info/index.html|ISTP检索<br>EI检索|2018/6/25|2018/11/10| 
   |全国计算语言学会议<br>(CCL2017)<br>http://www.cips-cl.org/static/CCL2018/callfor.html|NLP相关| 2018/6/11|2018/10|
   |National Conference of Computer Applications 2018<br>(NCCA)<br>https://easychair.org/cfp/ncca2018| 网络安全与人工智能|2018/06/30|2018/9|
-  |计算科学与应用国际会议<br>(CSAE2018)<br>http://www.csaeconf.org/DefaultCn.aspx| |2018/8/20|2018/10/22|
+  |计算科学与应用国际会议<br>(CSAE2018)<br>http://www.csaeconf.org/DefaultCn.aspx| |2018/6/20|2018/10/22|
   |计算机科学与人工智能国际会议<br>(CSAI)<br>http://www.csai.org/|不保证EI，但进入ACM Library|2018/7/20|2018/12/8|
   |IEEE云计算与大数据分析国际会议<br>(ICCCBDA)<br>http://www.icccbd.com/index.html||2018/2|2018/4|
   |International Conference on Progress in Informatics and Computing<br>(PIC)<br>http://pic2017.njust.edu.cn/|AI|2017/10/15|2017/12|
