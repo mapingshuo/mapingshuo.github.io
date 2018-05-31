@@ -105,3 +105,43 @@ http://opus.nlpl.eu/download.php?f=OpenSubtitles2018/zh_cn.tar.gz , 1GB+
 |zh_cn_test|3,113,751|全部|
 |en_small_train|3,045,832|2017|
 |en_small_test|338,237|2017|
+
+# Cornell Movie--Dialogs Corpus
+
+来源：http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+
+这个数据集很小，只是几十万的量级（不到1个millon）, 比OpenSubtitle的几十个millon的量级相比小很多，好处是它的数据中有角色信息。anyway，拿到数据后我做了一点简单的预处理，生成了一些对话的pair。
+
+```python
+# encoding=utf-8
+
+f = open("movie_lines.txt", 'r')
+source = open("en.source", "w")
+target = open("en.target", "w")
+
+lines = f.readlines()
+last_charactor = None
+last_sentence = None
+sources = []
+targets = []
+
+for line in lines:
+    s = line.strip()
+    charactor = s.split(" +++$+++ ")[-2]
+    sentence = s.split(" +++$+++ ")[-1]
+    if charactor != last_charactor and \
+            last_charactor is not None and \
+            last_sentence is not None:
+        sources.append(last_sentence)
+        targets.append(sentence)
+    last_charactor = charactor
+    last_sentence = sentence
+
+assert len(sources) == len(targets)
+dialogue = zip(sources, targets)
+for d in dialogue:
+    source.write(d[0] + "\n")
+    target.write(d[1] + "\n")
+```
+
+最终生成279,976对句子（每一行是一句话，未分词）。称为：en.source 和 en.target
