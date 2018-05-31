@@ -103,5 +103,5 @@ http://opus.nlpl.eu/download.php?f=OpenSubtitles2018/zh_cn.tar.gz , 1GB+
 |:-----:|:-----:|:------:|
 |zh_cn_train|28,023,762|全部|
 |zh_cn_test|3,113,751|全部|
-|en_small_train|12,321,660|2017|
-|en_small_test|1,369,073|2017|
+|en_small_train|3,045,832|2017|
+|en_small_test|338,237|2017|
