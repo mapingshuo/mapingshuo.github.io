@@ -145,3 +145,6 @@ for d in dialogue:
 ```
 
 最终生成279,976对句子（每一行是一句话，未分词）。称为：en.source 和 en.target
+
+# Redit
+TODO
