@@ -80,7 +80,7 @@ $HOME/.cache/paddle/dataset
     |- glove.840B.300d.txt
 ```
 
-### Train
+### Train and evaluate
 
 We provide multiple models and configs, details are shown in models and configs directory. For quick start, you can run the cdssmNet with cdssm_base config:
 
@@ -93,3 +93,22 @@ fluid train_and_evaluate.py  \
 You are supposed to get log like sample_log.txt.
 
 ## Results
+
+### Models
+
+#### CDSSM
+
+#### InferSent
+
+#### SSE
+
+#### DecAtt
+
+### Test Accuracy
+
+|Model|dev accuracy| test accuracy
+|:----:|:----:|:----:|
+|CDSSM|||
+|InferSent|||
+|SSE|||
+|DecAtt|||
