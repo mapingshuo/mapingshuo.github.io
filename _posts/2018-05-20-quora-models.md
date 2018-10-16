@@ -45,7 +45,7 @@ pip install paddlepaddle-gpu==1.0.1.post97
 
 ```
 
-### Have I installed successfully?
+### Have I installed Fluid successfully?
 
 You can run the following script in your command line:
 
