@@ -1,27 +1,5 @@
 # Text matching on Quora qestion-answer pair dataset
 
-## Install fluid release 1.0
-
-You can follow the fluid's [official document](http://www.paddlepaddle.org/documentation/docs/en/1.0/build_and_install/pip_install_en.html) to install the fluid. 
-
-Attention: You are supposed to install python and pip before installing fluid
-
-### cpu version
-
-```
-pip install paddlepaddle==1.0.1
-```
-
-### gpu version
-
-Assume you have downloaded cuda(cuda9.0) and cudnn(cudnn7) lib, here I will give you a expample:
-
-```shell
-
-pip install paddlepaddle-gpu==1.0.1.post97
-
-```
-
 ## Introduction
 
 ### a brief review of the Quora Question Pair (QQP) Task
@@ -41,10 +19,41 @@ The kaggle competition has inspired lots of effective work. However, most of the
 
 [Wang et al.](https://arxiv.org/abs/1702.03814) proposed the BIMPM(Bilateral Multi-Perspective Matching) model based on the Quora Question Pair dataset. They splited the original dataset to [3 part](https://drive.google.com/file/d/0B0PlTAo--BnaQWlsZl9FZ3l1c28/view?usp=sharing): train.tsv(384,348 samples), dev.tsv(10,000 samples) and test.tsv(10,000 samples). The class distribution in train.tsv is unbalanced(37% positive, 63% negative). But the class distribution in dev.tsv and test.tsv is balanced(50% positive and 50% negetive). We follow this split in our experiments. 
 
-
-### Our Intention
+### Our Work
 
 Based on the Quora Question Pair Dataset, we will implement some classic models in the area of the NLU(Neraul Lanuage Understanding). The prediction results will be evaluated by accuracy on the test.tsv, like [Wang et al.](https://arxiv.org/abs/1702.03814).
+
+## Environment Preparation: Install fluid release 1.0
+
+You can follow the fluid's [official document](http://www.paddlepaddle.org/documentation/docs/en/1.0/build_and_install/pip_install_en.html) to install the fluid. 
+
+[Attention] You are supposed to install python and pip before installing fluid
+
+### cpu version
+
+```
+pip install paddlepaddle==1.0.1
+```
+
+### gpu version
+
+Assume you have downloaded cuda(cuda9.0) and cudnn(cudnn7) lib, here is an expample:
+
+```shell
+
+pip install paddlepaddle-gpu==1.0.1.post97
+
+```
+
+### Have I installed successfully?
+
+You can run the following script in your command line:
+
+```shell
+python -c "import paddle"
+```
+
+If you get no error, the fluid is installed successfully! If you got any question, feel free to open issues under the [PaddlePaddle repository](https://github.com/PaddlePaddle/Paddle/issues). 
 
 ## Prepare Data
 
