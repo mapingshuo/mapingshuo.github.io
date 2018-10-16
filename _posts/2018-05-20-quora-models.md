@@ -53,7 +53,7 @@ You can run the following script in your command line:
 python -c "import paddle"
 ```
 
-If you get no error, the fluid is installed successfully! If you got any question, feel free to open issues under the [PaddlePaddle repository](https://github.com/PaddlePaddle/Paddle/issues). 
+Fluid is installed successfully if no error message is prompted. If you get any error, feel free to open issues under the [PaddlePaddle repository](https://github.com/PaddlePaddle/Paddle/issues). 
 
 ## Prepare Data
 
