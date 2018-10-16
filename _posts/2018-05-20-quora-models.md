@@ -10,6 +10,23 @@ TODO
 
 TODO
 
+## Introduction： a brief review of the Quora Question Pair (QQP) Task
+
+[Quora Pair Dataset](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs) is a dataset of 400,000 question pairs from the [Quora forum](https://www.quora.com/), where people raise questions for the others to answer. Each sample in the dataset consists of two English questions and a label represent whether the two questions are duplicate. 
+
+Below are two samples of the dataset. The last clolmn indicates whether the two questions is duplicate (1) or not(0).
+
+|id | qid1 | qid2| question1| question2| is_duplicate
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|0 |1 |2 |What is the step by step guide to invest in share market in india? |What is the step by step guide to invest in share market? |0|
+|1 |3 |4 |What is the story of Kohinoor (Koh-i-Noor) Diamond? | What would happen if the Indian government stole the Kohinoor (Koh-i-Noor) diamond back? |0|
+
+The dataset is well annotated by human. A [kaggle competition](https://www.kaggle.com/c/quora-question-pairs#description) is held base on this dataset in 2017. Kaggler is provided with  
+
+and the questions in the dataset is open-domain. 
+
+(Wang et al.)[https://arxiv.org/abs/1702.03814] split the original dataset to 3 part: train.tsv(384,348 samples), dev.tsv(10,000 samples) and test.tsv(10,000 samples) 
+
 ## Prepare Data
 
 Please download the Quora dataset firstly from https://drive.google.com/file/d/0B0PlTAo--BnaQWlsZl9FZ3l1c28/view?usp=sharing
