@@ -1,14 +1,12 @@
 # Text matching on Quora qestion-answer pair dataset
 
-## Environment Preparation
-
-You are supposed to install python and pip before installing fluid
-
-### Install fluid release 1.0
+## Install fluid release 1.0
 
 You can follow the fluid's [official document](http://www.paddlepaddle.org/documentation/docs/en/1.0/build_and_install/pip_install_en.html) to install the fluid. 
 
-#### cpu version
+Attention: You are supposed to install python and pip before installing fluid
+
+### cpu version
 
 ```
 pip install paddlepaddle==1.0.1
