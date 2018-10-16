@@ -90,7 +90,7 @@ fluid train_and_evaluate.py  \
     --config=cdssm_base
 ```
 
-You are supposed to get log like sample_log.txt.
+You are supposed to get log like cdssm_base.log
 
 ## Results
 
