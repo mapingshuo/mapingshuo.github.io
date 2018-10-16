@@ -80,7 +80,7 @@ $HOME/.cache/paddle/dataset
     |- glove.840B.300d.txt
 ```
 
-### Train and evaluate
+## Train and evaluate
 
 We provide multiple models and configs, details are shown in models and configs directory. For quick start, you can run the cdssmNet with cdssm_base config:
 
